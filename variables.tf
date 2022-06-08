@@ -1,7 +1,7 @@
-#variable "prefix" {
-#  type    = string
-#  #default = "sl-demo"
-#}
+variable "prefix" {
+  type    = string
+  default = "cloudnewb"
+}
 
 #variable "resource_group_name" {
 #  type = string
